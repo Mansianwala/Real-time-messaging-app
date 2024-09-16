@@ -42,7 +42,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Ashish0-0/ChatWave.git
+git clone https://github.com/Mansianwala/Real-time-messaging-app
 ```
 
 ### Install packages
